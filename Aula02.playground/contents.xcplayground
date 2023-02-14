@@ -4,5 +4,6 @@
         <page name='Aula 2.2 - Super'/>
         <page name='Aula 2.3 - Override'/>
         <page name='Aula 2.1 - Herança'/>
+        <page name='Aula 2.4 - Polimorfismo e Typecasting'/>
     </pages>
 </playground>
