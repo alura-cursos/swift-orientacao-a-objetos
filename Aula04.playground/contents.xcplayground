@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Aula 4.2 - Protocolos'/>
+        <page name='Aula 4.1 - Extensões'/>
+        <page name='Aula 4.3 - Enumerações'/>
+        <page name='Aula 4.4 - Raw Values'/>
+        <page name='Aula 4.5 - Associated Values'/>
+    </pages>
+</playground>
